@@ -79,7 +79,7 @@ router.get('/', async (req, res) => {
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    MALVIN_KING_PAIR_CODE();
+                    MARION_X_PAIR_CODE();
                 }
             });
         } catch (err) {
