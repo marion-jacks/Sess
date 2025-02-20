@@ -6,7 +6,7 @@ const fs = require('fs');
 let router = express.Router()
 const pino = require("pino");
 const {
-    default: 𝐌𝐀𝐑𝐈𝐎𝐍 𝐗,    useMultiFileAuthState,
+    default: 𝐌𝐀𝐑𝐈𝐎𝐍,    useMultiFileAuthState,
     delay,
     makeCacheableSignalKeyStore,
     Browsers
